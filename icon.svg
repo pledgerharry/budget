@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <rect width="180" height="180" rx="40" fill="#000000"/>
+  <g transform="translate(24, 38)" fill="none" stroke="#ffffff" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Bottom note (shadow) -->
+    <rect x="8" y="76" width="116" height="46" rx="6" stroke="#444444" stroke-width="5"/>
+    <!-- Middle note -->
+    <rect x="4" y="58" width="116" height="46" rx="6" stroke="#888888" stroke-width="5"/>
+    <!-- Top note (main) -->
+    <rect x="0" y="40" width="116" height="46" rx="6"/>
+    <!-- Left box on top note -->
+    <rect x="10" y="50" width="22" height="18" rx="3"/>
+    <line x1="16" y1="59" x2="26" y2="59"/>
+    <!-- Centre oval on top note -->
+    <ellipse cx="58" cy="63" rx="16" ry="10"/>
+    <line x1="47" y1="63" x2="69" y2="63"/>
+    <!-- Right box on top note -->
+    <rect x="84" y="50" width="22" height="18" rx="3"/>
+    <line x1="90" y1="59" x2="100" y2="59"/>
+  </g>
+</svg>
